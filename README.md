@@ -26,7 +26,7 @@
 * [How to Use](#how-to-use)
 * [Project Structure](#project-structure)
 * [Reproducibility Notes](#reproducibility-notes)
-* [Attribution & License](#attribution--license)
+* [Attribution](#attribution)
 * [Contact](#contact)
 
 ---
